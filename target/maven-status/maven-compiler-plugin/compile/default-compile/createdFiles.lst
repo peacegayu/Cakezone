@@ -1,0 +1,15 @@
+com\cakezone\cakezone\servlets\ProductOperationServlet.class
+com\cakezone\cakezone\entities\Product.class
+com\cakezone\cakezone\servlets\RegisterServlet.class
+com\cakezone\cakezone\dao\CategoryDao.class
+com\cakezone\cakezone\helper\Helper.class
+com\cakezone\cakezone\dao\UserDao.class
+com\cakezone\cakezone\JakartaRestConfiguration.class
+com\cakezone\cakezone\dao\ProductDao.class
+com\cakezone\cakezone\entities\Category.class
+com\cakezone\cakezone\servlets\LogoutServlet.class
+com\cakezone\cakezone\dao\UserDao$q.class
+com\cakezone\cakezone\servlets\LoginServlet.class
+com\cakezone\cakezone\resources\JakartaEE8Resource.class
+com\cakezone\cakezone\helper\FactoryProvider.class
+com\cakezone\cakezone\entities\User.class
